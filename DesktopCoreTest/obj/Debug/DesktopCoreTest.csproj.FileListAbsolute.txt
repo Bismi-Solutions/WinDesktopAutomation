@@ -1,0 +1,9 @@
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCoreTest\bin\Debug\DesktopCoreTest.exe.config
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCoreTest\bin\Debug\DesktopCoreTest.exe
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCoreTest\bin\Debug\DesktopCoreTest.pdb
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCoreTest\obj\Debug\DesktopCoreTest.csprojAssemblyReference.cache
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCoreTest\obj\Debug\DesktopCoreTest.Form1.resources
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCoreTest\obj\Debug\DesktopCoreTest.Properties.Resources.resources
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCoreTest\obj\Debug\DesktopCoreTest.csproj.GenerateResource.cache
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCoreTest\obj\Debug\DesktopCoreTest.exe
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCoreTest\obj\Debug\DesktopCoreTest.pdb

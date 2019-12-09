@@ -1,0 +1,10 @@
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\obj\Debug\BismiSolutions.DesktopCore.csprojAssemblyReference.cache
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\obj\Debug\DesktopCore.Utility.MonitorForm.resources
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\obj\Debug\BismiSolutions.DesktopCore.csproj.GenerateResource.cache
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\bin\Debug\DesktopCore.dll
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\bin\Debug\DesktopCore.pdb
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\bin\Debug\Castle.Core.dll
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\bin\Debug\Castle.Core.xml
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\obj\Debug\BismiSolutions.DesktopCore.csproj.CopyComplete
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\obj\Debug\DesktopCore.dll
+C:\Users\Sulfikar Ali Nazar\source\repos\Bismi-Solutions\WinDesktopAutomation\DesktopCore\obj\Debug\DesktopCore.pdb

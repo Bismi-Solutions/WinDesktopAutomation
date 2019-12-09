@@ -1,4 +1,4 @@
 # WinDesktopAutomation
 Library to automate desktop applications in windows platform
 
-Mic
+Ligh Version of Test stack white library
